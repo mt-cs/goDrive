@@ -1,5 +1,5 @@
 # Cloud Storage Service
-Author: Marisa Tania, Ryan Tjakrakartadinata\
+Author: Marisa Tania, Ryan Tjakrakartadinata
 
 ## About GoDrive
 GoDrive is a cloud storage system similar to Dropbox or Google Drive, with resilient, replicated backend servers and a command line client application. This project uses the go standard library and socket programming.
