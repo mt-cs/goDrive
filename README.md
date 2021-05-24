@@ -1,7 +1,5 @@
-# Project 4: Cloud Storage Service
+# Cloud Storage Service
 Author: Marisa Tania, Ryan Tjakrakartadinata\
-Professor: Matthew Malensek\
-See project spec here: https://www.cs.usfca.edu/~mmalensek/cs521/assignments/project-4.html
 
 ## About GoDrive
 GoDrive is a cloud storage system similar to Dropbox or Google Drive, with resilient, replicated backend servers and a command line client application. This project uses the go standard library and socket programming.
